@@ -1,0 +1,49 @@
+{
+  "_resourceType": "scene",
+  "id": "027e30a7-bae7-49a7-a29e-6de99edd9c9d",
+  "_index": 0,
+  "type": "TOPDOWN",
+  "name": "Visual Scripting",
+  "symbol": "scene_1",
+  "x": 96,
+  "y": 32,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "b66fc553-6664-4849-9f4c-850bd3ac807b",
+  "tilesetId": "",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Hello, World!"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "2ed6ca5b-34a4-4bf3-a2c8-4905218142e8"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "",
+  "playerSpriteSheetId": "7b9a3788-8efd-4217-9c90-2c22774ddb26"
+}

@@ -1,0 +1,40 @@
+{
+  "_resourceType": "scene",
+  "id": "58ecb09b-b10f-444d-a4f3-d4608b2f2f68",
+  "_index": 3,
+  "name": "Assembly",
+  "backgroundId": "b66fc553-6664-4849-9f4c-850bd3ac807b",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_4",
+  "x": 672,
+  "y": 32,
+  "script": [
+    {
+      "command": "EVENT_FADE_IN",
+      "args": {
+        "speed": 1
+      },
+      "id": "a3322533-080a-4717-b000-1ebbb7260c90"
+    },
+    {
+      "command": "EVENT_GBVM_SCRIPT",
+      "args": {
+        "script": "VM_CALL_NATIVE b_hello_world_asm hello_world_asm",
+        "references": [],
+        "__comment": false
+      },
+      "id": "3ac51e82-5a96-4289-a042-1806d80c1c0b"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "7b9a3788-8efd-4217-9c90-2c22774ddb26"
+}

@@ -1,0 +1,9 @@
+{
+  "_resourceType": "emote",
+  "id": "8f693386-7ab8-4a65-aa62-11cf28eb0fef",
+  "name": "empty",
+  "symbol": "emote_empty",
+  "width": 8,
+  "height": 8,
+  "filename": "empty.png"
+}

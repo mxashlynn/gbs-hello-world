@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "b66fc553-6664-4849-9f4c-850bd3ac807b",
+  "name": "empty",
+  "symbol": "bg_empty",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "empty.png",
+  "tileColors": "",
+  "autoColor": false
+}

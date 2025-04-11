@@ -1,0 +1,4 @@
+# Normalize Line Endings to LineFeed
+*.md text=auto
+*.text text=auto
+*.txt text=auto

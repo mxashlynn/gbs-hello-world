@@ -15,6 +15,7 @@ Hello World in GB Studio using Visual Scripting, GBVM, C, and Assembly.
 ## Contributors ⚗️🍧
 
 - Primarily the work of [Paige Ashlynn](https://github.com/mxashlynn/).
+- The font, [Cozy 8x8](https://mxashlynn.itch.io/gb-studio-cozy-font), also by Paige, is available and separately licensed.
 - Thanks to Chroma and Mint for reviewing early drafts.
 - Thanks to toxa and bbbbbr for helping me understand the tool chain and tech stack.
 - Thanks to Caidence for providing funding.
